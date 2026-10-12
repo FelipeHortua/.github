@@ -181,7 +181,7 @@ Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Naci
 | Daniel Eduardo Ballén Baena | SPI_RAM |
 | _Nombre_ | _Rol_ |
 | _Nombre_ | _Rol_ |
-| _Nombre_ | _Rol_ |
+| Elkin Giovany Romero Romero | UART |
 
 
 
