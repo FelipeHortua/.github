@@ -179,6 +179,7 @@ Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Naci
 | Integrante | Rol |
 |---|---|
 | Daniel Eduardo Ballén Baena | SPI_RAM |
+| Iván Felipe Maluche Suarez | PS2_Keyboard |
 | _Nombre_ | _Rol_ |
 | _Nombre_ | _Rol_ |
 | Elkin Giovany Romero Romero | UART |
