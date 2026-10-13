@@ -183,6 +183,7 @@ Proyecto de **Electrónica Digital 1**, Ingeniería Eléctrica, Universidad Naci
 | _Nombre_ | _Rol_ |
 | Elkin Giovany Romero Romero | UART |
 | Isaias Gallardo <br> Julián Gómez <br> Dania Pérez <br> Cristian Rojas | Multijugador de Red |
+| David Hoyos <br> Gabriel Leguizamón| Pantalla auxiliar MAX7219 |
 
 
 
